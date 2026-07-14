@@ -4,7 +4,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-lightgrey?style=for-the-badge)
 
-**Tenggatify** adalah aplikasi manajemen tugas (Task Management) lintas platform yang dibangun menggunakan Flutter. Aplikasi ini dirancang untuk membantu Anda melacak, mengelola, dan mengingat setiap *tenggat waktu* (deadline) pekerjaan Anda agar Anda tetap produktif dan terorganisir.
+**Tenggatify** adalah aplikasi manajemen tugas (Task Management) lintas platform yang dibangun menggunakan Flutter. Aplikasi ini dirancang untuk membantu Anda melacak, mengelola, dan mengingat setiap *tenggat waktu* (deadline) pekerjaan agar tetap produktif dan terorganisir.
 
 ---
 
@@ -50,7 +50,7 @@ Proyek ini menggunakan arsitektur yang terstruktur dan modular di dalam direktor
 ##  Cara Menjalankan Proyek (Getting Started)
 
 ### Prasyarat
-Pastikan Anda telah menginstal lingkungan pengembangan berikut di mesin Anda:
+Pastikan telah menginstal lingkungan pengembangan berikut di mesin Anda:
 *   [Flutter SDK](https://docs.flutter.dev/get-started/install)
 *   Android Studio / VS Code dengan ekstensi Flutter & Dart
 *   Emulator atau perangkat fisik untuk pengujian
@@ -79,7 +79,7 @@ Pastikan Anda telah menginstal lingkungan pengembangan berikut di mesin Anda:
 
 ##  Kontribusi
 
-Kontribusi selalu diterima! Jika Anda ingin menambahkan fitur, memperbaiki bug, atau meningkatkan kode, silakan buat *Pull Request* atau buka *Issue*.
+Kontribusi selalu diterima! Jika ingin menambahkan fitur, memperbaiki bug, atau meningkatkan kode, silakan buat *Pull Request* atau buka *Issue*.
 
 1.  *Fork* proyek ini
 2.  Buat *branch* fitur Anda (`git checkout -b feature/FiturKeren`)
