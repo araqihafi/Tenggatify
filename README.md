@@ -75,15 +75,7 @@ Pastikan Anda telah menginstal lingkungan pengembangan berikut di mesin Anda:
 
 ---
 
-##  Cuplikan Layar (Screenshots)
 
-*(Ganti tautan gambar di bawah ini dengan tautan screenshot asli aplikasi Anda setelah diunggah ke repositori)*
-
-| Daftar Tugas | Tambah Tugas | Detail Tugas |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500?text=Task+List" width="200"/> | <img src="https://via.placeholder.com/250x500?text=Add+Task" width="200"/> | <img src="https://via.placeholder.com/250x500?text=Task+Detail" width="200"/> |
-
----
 
 ##  Kontribusi
 
